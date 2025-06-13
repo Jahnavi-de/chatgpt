@@ -1,3 +1,4 @@
+#Gemini AI Clone
 A sleek and responsive Gemini-style AI interface 
 
 Features
